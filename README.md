@@ -12,7 +12,8 @@ A small kit so an assistant can continue the company without making Fred rebuild
 
 - `CURRENT_STATE.md` — the present
 - `Armies/` — exact list exports and a one-page note
-- later: short people pages, scene notes, a thin rules pointer, Wahapedia as discovery only
+- `Reference/Wahapedia/` — discovery index; full CSV import stays in the archive
+- `Reference/Methodology/` — pointers to the three papers Fred chose
 
 ## What this is not
 
