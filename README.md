@@ -11,6 +11,7 @@ A small kit so an assistant can continue the company without making Fred rebuild
 ## What lives here
 
 - `CURRENT_STATE.md` — the present
+- `People/` — short pages for named offices; Constantia is first
 - `Armies/` — exact list exports and a one-page note
 - `Reference/Wahapedia/` — discovery index; full CSV import stays in the archive
 - `Reference/Methodology/` — pointers to the three papers Fred chose
@@ -21,4 +22,4 @@ The old courthouse. That tree is archived at [`OLD-ARCHIVE-FOR-Order-of-the-Silv
 
 ## Rules of work
 
-Do not invent to close gaps. Roster presence is not story presence. A list is a configuration of the same company, not a later year. Adult talk only when asked. No sermons.
+Do not invent to close gaps. Roster presence is not story presence. A list is a configuration of the same company, not a later year. Succeed at the mission; as few models slain as that success will bear. Adult talk only when asked. No sermons.
