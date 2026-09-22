@@ -33,7 +33,15 @@ They stand where the guns reach. They do not walk into a fight they will lose fi
 
 Five models plus two characters. Each slain name is a death she counts. The knot exists to succeed without spending those names first.
 
-Litanies of Faith is on both lists. Its exact current wording is not copied here.
+## Litanies of Faith
+
+Army of Faith Enhancement. Canoness or Palatine only. Ten points. That is why her line reads seventy.
+
+At the start of her Command phase, if she is on the battlefield, she takes a Leadership test. Pass: one Miracle die. Fail: nothing. A transport or reserves shuts it off.
+
+Official flavour calls it an unassuming parchment, a Ministorum relic. Do not invent how Compass came to hold it.
+
+This is certainty without a grave. Eulalia does not take the test. Eulalia turns an Act already being spent into a six. Different work.
 
 ## Canoness office
 
@@ -87,4 +95,4 @@ The three have known one another a long time. Aurelia and Justina already unders
 
 ## Closed
 
-No childhood invented. No numbered age. No text invented for Litanies of Faith. No theology of the Light beyond what Fred described. Do not open the closed scene unless he opens it.
+No childhood invented. No numbered age. No story invented for how the parchment was obtained. No theology of the Light beyond what Fred described. Do not open the closed scene unless he opens it.
